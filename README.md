@@ -1,2 +1,2 @@
 # CaesarCipher
-Simple implementation of Caesar cipher writen in Python
+Simple implementation of Caesar cipher class writen in Python
